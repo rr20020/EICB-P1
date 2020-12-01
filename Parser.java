@@ -35,6 +35,7 @@ import static mavlc.syntax.expression.Compare.Comparison.*;
 
 /* TODO enter group information
    Marek Daniv 2558754
+   Rizwana Rathmann 1309360
 		
 
  */
